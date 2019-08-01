@@ -1,0 +1,57 @@
+/* Image responsive l(large) */
+.img-responsive-l{
+  display: block;
+  max-width: 100%;
+  height: 75%;
+  width: 75%;
+  height: auto;
+  float: left;
+}
+
+/* Image responsive s(small) */
+.img-responsive-s{
+  display: block;
+  height: 100%;
+  width: 100%;
+}
+
+.navbar-default .navbar-brand {
+  color: white;
+  background-color:blue;
+}
+
+
+/* On screens that are medium or smaller display pics in a row */
+@media screen and ( max-width:992px) {
+
+}
+
+
+/* h1 {
+    color: blue;
+  }
+  
+  .purple {
+    color: purple;
+  }
+  
+  #red {
+    color: red;
+  }
+  
+  #big-font {
+    font-size: 40px;
+  }
+  
+  #bold-font {
+    font-weight: bold;
+  }
+  
+  .back-black {
+    background-color: #000;
+  }
+  
+  .small-font {
+    font-size: 10px;
+  } */
+  
